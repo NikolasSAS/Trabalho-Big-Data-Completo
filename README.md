@@ -11,4 +11,4 @@
 ### Arquivo de Relatório: Contém o relatório do projeto em formato pdf.
 - #### O relatório descreve as etapas de Diagnóstico e Teorização, Planejamento e Desenvolvimento do projeto e Encerramento do Projeto.  
 ### Slides Big Data: Contém os slides em formato pdf.
-- #### Contém os objetivos gerais do projeto, a base de dados utilizada, as tecnologias utilizadas e os resultados do código.
+- #### Slides para apresentação que contêm os objetivos gerais do projeto, a base de dados utilizada, as tecnologias utilizadas e os resultados do código.
